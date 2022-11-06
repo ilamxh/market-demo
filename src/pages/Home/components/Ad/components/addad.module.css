@@ -1,0 +1,11 @@
+.main{
+    width: 800px;
+    margin-top: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.inputMessage input{
+    width: 180px;
+}
+
